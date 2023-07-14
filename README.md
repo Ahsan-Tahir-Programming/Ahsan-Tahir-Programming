@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ahsan-Tahir-Programming
-- 👀 I’m interested in coding,reading,
+- 👀 I’m interested in coding,reading.
 - 🌱 I’m currently learning advance coding.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
